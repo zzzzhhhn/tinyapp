@@ -1,0 +1,8 @@
+/* app.wxss */
+.text-center {
+  text-align: center;
+}
+
+text {
+  font-family: MicroSoft Yahei;
+}

@@ -1,0 +1,9 @@
+<!--pages/welcome/welcome.wxml-->
+<view class='welcome-container'>
+  <image class='img-avatar' src='/images/avatar/1.png'></image>
+  <text class='user-name'>Hello, Zora!</text>
+
+  <view class='moto-container'>
+    <text class='moto'>开启小程序之旅</text>
+  </view>
+</view>
